@@ -44,7 +44,7 @@ Host your own instance of Animetize API on Heroku using the button below.
 ### Vercel
 Host your own instance of Animetize API on Vercel using the button below.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Favalynndev%2Fanimetize-api)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/VoidX3D/animetize-api)
 
 ### Render
 Host your own instance of Animetize API on Render using the button below.
